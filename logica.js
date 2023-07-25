@@ -37,4 +37,4 @@ if (userPuntaje > puntajeDesckop) {
   console.log("Lo lamento, mejor suerte la próxima, perdió. Su puntaje es: " + userPuntaje + ", y el de la máquina " + puntajeDesckop);
 } else {
   console.log("Usted y la máquina empataron, su puntaje: " + userPuntaje + " y el de la máquina " + puntajeDesckop);
-}
+};
